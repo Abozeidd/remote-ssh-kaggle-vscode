@@ -1,2 +1,2 @@
-#!/bin/bash#
-ngrok config add-authtoken $1
+#!/bin/bash
+zrok config add-authtoken $1
